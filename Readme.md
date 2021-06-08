@@ -1,6 +1,6 @@
 # Medi quiz    
 
-AIM - Create AI powered medical quizes app
+AI powered medical quiz app
 
 ## Features to include
 - [ ] Using Knowledge graphs and Ontologies to generate questions
