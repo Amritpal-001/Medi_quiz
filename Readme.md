@@ -37,4 +37,4 @@ Coverage of Android devices - more than 98%
 ## Screenshots
 | Home screen                  |  Quiz screen | 
 | :---:                     |     :---:      |   
-| <img src="images/Screenshot_04.png" alt="Home screen" height=350/> | <img src="images/Screenshot_03.png" alt="Quiz screen" height=350/>   |
+| <img src="images/screenshot_04.jpeg" alt="Home screen" height=350/> | <img src="images/screenshot_03.jpeg" alt="Quiz screen" height=350/>   |
