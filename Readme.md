@@ -5,8 +5,10 @@ AI powered medical quiz app
 IN DEVELOPMENT PHASE
 
 ## Features to include
+
 - [ ] Using Knowledge graphs and Ontologies to generate questions
 - [ ] Automatic Smart options generation
+- [ ] Using AutoML and un-supervised learning to categorize questions
 - [x] Create in-app Flashcards
 - [ ] Read, review Flashcards, with smart recall algorithm
 - [ ] Recommendations on topics to study
