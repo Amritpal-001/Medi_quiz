@@ -11,6 +11,12 @@ AIM - Create AI powered medical quizes app
 - [ ] Collect community questions too
 - [x] Leatherboard for people
 
+
+Link to ontologies being created -  link
+Link to Sample Question database generated - link
+Link to code for Knowledge graph generation - link
+
+
 ## Goals - 
 - [x] Basic quizing interface
 - [x] Basic flashcard review interface
