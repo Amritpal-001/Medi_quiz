@@ -2,6 +2,8 @@
 
 AI powered medical quiz app
 
+IN DEVELOPMENT PHASE
+
 ## Features to include
 - [ ] Using Knowledge graphs and Ontologies to generate questions
 - [ ] Automatic Smart options generation
@@ -46,3 +48,6 @@ Coverage of Android devices - more than 98%
 | Home screen                  |  Quiz screen | 
 | :---:                     |     :---:      |   
 | <img src="images/screenshot_04.jpeg" alt="Home screen" height=500 /> | <img src="images/screenshot_03.jpeg" alt="Quiz screen" height=500/>   |
+
+
+P.S. -This project would not have been feassible without my creative discussion with - Dr. Akshdeep singh
