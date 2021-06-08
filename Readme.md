@@ -35,6 +35,6 @@ Coverage of Android devices - more than 98%
 
 
 ## Screenshots
-| Normal                  |  Diabetic retinopathy | Maculopathy | Retinitis pigmentosa |
-| :---:                     |     :---:      |          :---: |          :---: |
-| <img src="Images/Correct_diagnosis003.jpg" alt="Normal" height=350/> | <img src="Images/Correct_diagnosis002.jpg" alt="Maculopathy" height=350/>   |   <img src="Images/Correct_diagnosis001.jpg" alt="Diabetic retinopathy" height=350 />  |   <img src="Images/Correct_diagnosis004.jpg" alt="Retinitis pigmentosa" height=350 />  |
+| Home screen                  |  Quiz screen | 
+| :---:                     |     :---:      |   
+| <img src="images/Screenshot_04.png" alt="Home screen" height=350/> | <img src="images/Screenshot_03.png" alt="Quiz screen" height=350/>   |
