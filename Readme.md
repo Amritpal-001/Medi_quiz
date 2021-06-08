@@ -53,3 +53,12 @@ Coverage of Android devices - more than 98%
 
 
 P.S. -This project would not have been feassible without my creative discussion with - Dr. Akshdeep singh
+
+
+## Resources to study
+- [ ] AutoNLP
+  - [ ] AutoNLP Hugging Face - https://github.com/huggingface/autonlp  , https://huggingface.co/autonlp
+  - [ ] https://github.com/DeepBlueAI/AutoNLP 
+  - [ ] AutoNLP competition - https://www.4paradigm.com/content/details_85_1864.html
+- [ ] Clustering algorithms
+- [ ] Knowledge graphs
