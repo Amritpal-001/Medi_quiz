@@ -13,7 +13,9 @@ AIM - Create AI powered medical quizes app
 
 
 Link to ontologies being created -  link
+
 Link to Sample Question database generated - link
+
 Link to code for Knowledge graph generation - link
 
 
